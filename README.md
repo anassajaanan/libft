@@ -1,4 +1,4 @@
-# Libft-42
+# Libft
 
 Libft-42 is a C library project at 42 coding school, implementing a collection of commonly used functions in C programming. This project aims to help students understand the basics of C programming, memory management, data structures, and algorithms.
 
@@ -37,10 +37,10 @@ Libft-42 is a C library project at 42 coding school, implementing a collection o
 git clone https://github.com/anassajaanan/libft.git
 ```
 
-2. Change to the `Libft-42` directory:
+2. Change to the `libft` directory:
 
 ```bash
-cd Libft-42
+cd libft
 ```
 
 3. Compile the library:
